@@ -1,0 +1,25 @@
+{
+  "name": "InfoAgro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o src/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josefloresh94/InfoAgroCLONE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josefloresh94/InfoAgroCLONE/issues"
+  },
+  "homepage": "https://github.com/Josefloresh94/InfoAgroCLONE#readme",
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.0.4"
+  }
+}
